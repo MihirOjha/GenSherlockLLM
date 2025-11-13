@@ -1,5 +1,7 @@
 # 🕵️‍♂️ Sherlock HoLLMs — A Fine-Tuned GPT-2 Model on the Sherlock Holmes Canon
 
+I remember the first detective I read about was Sherlock Holmes. I love his analytical mindset (something I would want to incorporate minus being a "high functioning sociopath") and the simple process of elimination he employes to uncover the truth. So I thought, hey, how would Sherlock adivse me on getting me into cooking. But I quickly learnt that ideas are one thing but implementation is another beasy I was not prepared for. Hence, my unpolished, unrefined version of at least getting the model to generate sherlockian style prose. Hope you find something of value from this. If you stumbled upon this project and liked the idea and want to collab, please reach out. I would love feedback and learn so much more.
+
 Sherlock HoLLMs is a lightweight language model fine-tuned on **all Sherlock Holmes novels and short stories by Sir Arthur Conan Doyle**.
 
 The goal is to generate _Holmes-style prose_ — short deductions, philosophical reflections, and Victorian-era storytelling with a Sherlockian tone.
@@ -162,4 +164,4 @@ This is originally what I had in mind before starting the porject but this is so
 - Hugging Face — for Transformers, Datasets, and PEFT
 - The open-source ML community
 
-If you stumbled upon this project and liked the idea and want to collab, please reach out. I would love feedback and learn so much more.
+If you are with me so far, reach out and lets build something together
