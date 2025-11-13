@@ -1,6 +1,7 @@
-# 🕵️‍♂️ Sherlock Wisdom — A Fine-Tuned GPT-2 Model on the Sherlock Holmes Canon
+# 🕵️‍♂️ Sherlock HoLLMs — A Fine-Tuned GPT-2 Model on the Sherlock Holmes Canon
 
-Sherlock Wisdom is a lightweight language model fine-tuned on **all Sherlock Holmes novels and short stories by Sir Arthur Conan Doyle**.  
+Sherlock HoLLMs is a lightweight language model fine-tuned on **all Sherlock Holmes novels and short stories by Sir Arthur Conan Doyle**.
+
 The goal is to generate _Holmes-style prose_ — short deductions, philosophical reflections, and Victorian-era storytelling with a Sherlockian tone.
 
 This project demonstrates:
@@ -13,7 +14,7 @@ This project demonstrates:
 
 ---
 
-## 🔍 Example Outputs
+## 🔍 Desired Example Outputs
 
 **Prompt:** _"Holmes once said to Watson about courage and intellect:"_
 
@@ -28,6 +29,8 @@ This project demonstrates:
 **Generated:**
 
 > "Apply your reason before your reactions, and cultivate the silence in which truth is most inclined to speak."
+
+Now I wasn't able to acheive this functioanlity because of the model I used and the small dataset. Maybe I could have fine tuned it further but I am still researching on the different ways. If you have any ideas, please feel free to share. I would love for this project to actually mimic Sherlock
 
 ---
 
