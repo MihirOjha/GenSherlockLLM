@@ -1,0 +1,23 @@
+sherlock-wisdom/
+├── data/
+│   ├── raw/          # raw downloaded text files
+│   ├── cleaned/      # processed, chunked data
+│   └── manifests/    # metadata, logs
+├── src/
+│   ├── data_prep/
+│   │   └── preprocess.py
+│   ├── training/
+│   │   └── train_lora.py
+│   ├── eval/
+│   │   └── overlap_check.py
+│   ├── api/
+│   │   └── app.py
+│   ├── scheduler/
+│   │   └── poster.py
+│   └── utils/
+│       └── helpers.py
+├── experiments/      # where training runs/logs are stored
+├── venv/             # your virtual environment
+├── requirements.txt  # dependencies
+├── README.md
+└── .gitignore

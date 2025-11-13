@@ -1,0 +1,38 @@
+[
+  {
+    "book": "adventures",
+    "chunks": 581
+  },
+  {
+    "book": "casebook",
+    "chunks": 460
+  },
+  {
+    "book": "his_last_bow",
+    "chunks": 328
+  },
+  {
+    "book": "hound_baskervilles",
+    "chunks": 330
+  },
+  {
+    "book": "memoirs",
+    "chunks": 531
+  },
+  {
+    "book": "return",
+    "chunks": 625
+  },
+  {
+    "book": "sign_of_four",
+    "chunks": 240
+  },
+  {
+    "book": "study_in_scarlet",
+    "chunks": 242
+  },
+  {
+    "book": "valley_of_fear",
+    "chunks": 322
+  }
+]

@@ -1,0 +1,11 @@
+complete books
+
+Study in Scarlet: https://www.gutenberg.org/cache/epub/244/pg244.txt
+The Sign of the Four: https://www.gutenberg.org/cache/epub/2097/pg2097.txt
+The Hound of the Baskervilles: https://www.gutenberg.org/cache/epub/2852/pg2852.txt
+The Valley of Fear: https://www.gutenberg.org/cache/epub/3289/pg3289.txt
+The Adventures of Sherlock Holmes: https://www.gutenberg.org/cache/epub/1661/pg1661.txt
+The Memoirs of Sherlock Holmes: https://www.gutenberg.org/cache/epub/834/pg834.txt
+The Return of Sherlock Holmes: https://www.gutenberg.org/cache/epub/221/pg221.txt
+His Last Bow: https://www.gutenberg.org/cache/epub/2350/pg2350.txt
+The Case-Book of Sherlock Holmes: https://www.gutenberg.org/cache/epub/69700/pg69700.txt
