@@ -164,4 +164,4 @@ This is originally what I had in mind before starting the porject but this is so
 - Hugging Face — for Transformers, Datasets, and PEFT
 - The open-source ML community
 
-If you are with me so far, reach out and lets build something together
+If you are with me so far, reach out and lets build something together.
